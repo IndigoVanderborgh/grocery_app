@@ -20,13 +20,3 @@ addButtonEl.addEventListener("click", function() {
     console.log(inputValue)
 })
 
-
-
-
-
-// call your project: realtime database
-// disable google analytics
-// create a realtime database
-//  set the realtime database location to nearest you
-// set the security rules to test mode
-// copy realtime database reference URL
