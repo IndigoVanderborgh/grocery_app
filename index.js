@@ -22,4 +22,4 @@ addButtonEl.addEventListener("click", function() {
 
 //  I'm having some firebase issues. tabling this project for now
 // instead I am reviewing notes from previous lesson
-// more notes tonight
+// more notes tonight, will update later
