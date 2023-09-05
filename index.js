@@ -24,3 +24,4 @@ addButtonEl.addEventListener("click", function() {
 // instead I am reviewing notes from previous lesson
 // more notes tonight, will update later
 // still notes :( 75% done with lectures!
+// still working on it
