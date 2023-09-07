@@ -25,4 +25,4 @@ addButtonEl.addEventListener("click", function() {
 // more notes tonight, will update later
 // still notes :( 75% done with lectures!
 // still working on it
-// starfield release
+// starfield release <--
