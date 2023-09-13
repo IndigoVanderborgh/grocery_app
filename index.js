@@ -27,4 +27,4 @@ addButtonEl.addEventListener("click", function() {
 // still working on it
 // starfield release <-- STARFIELD STARRFFIELLDDD almost done with starfield like trust me
 
-// notes
+// notes!
