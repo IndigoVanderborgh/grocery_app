@@ -28,4 +28,4 @@ addButtonEl.addEventListener("click", function() {
 // starfield release <-- STARFIELD STARRFFIELLDDD almost done with starfield like trust me
 
 // notes! 85 percent there 90 now 12 more lessons arguuume
-// this class is killing me! :D will update mroe next week :) 1231311231211111
+// this class is killing me! :D will update mroe next week :) 12313112312111114
