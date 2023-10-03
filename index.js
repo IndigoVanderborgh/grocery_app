@@ -22,12 +22,24 @@ addButtonEl.addEventListener("click", function() {
 
 
 
-//  I'm having some firebase issues. tabling this project for now
-// instead I am reviewing notes from previous lesson
-// more notes tonight, will update later
-// still notes :( 75% done with lectures!
-// still working on it
-// starfield release <-- STARFIELD STARRFFIELLDDD almost done with starfield like trust me
 
-// notes! 85 percent there 90 now 12 more lessons arguuume
-// this class is killing me! :D will update mroe next week :) 12313112312111114333123134
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
