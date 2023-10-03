@@ -20,6 +20,8 @@ addButtonEl.addEventListener("click", function() {
     console.log(inputValue)
 })
 
+
+
 //  I'm having some firebase issues. tabling this project for now
 // instead I am reviewing notes from previous lesson
 // more notes tonight, will update later
