@@ -21,7 +21,7 @@ addButtonEl.addEventListener("click", function() {
 })
 
 
-// tired T.T I cry evertyime
+// Working on notes
 
 
 
